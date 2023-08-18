@@ -10,9 +10,12 @@ Trong repository này chúng ta sẽ upload các file của project để tạo 
 **Tuần 1:** Chuẩn bị cơ bản
 
 Mục tiêu: 
-  Tất cả mọi người có thể commit lên github.
-  Mô tả được cấu trúc phần mềm cơ bản.
-  Hoàn thành bước 1: Analysis (Lập kế hoạch và phân tích yêu cầu).
+
+    Tất cả mọi người có thể commit lên github.
+  
+    Mô tả được cấu trúc phần mềm cơ bản.
+  
+    Hoàn thành bước 1: Analysis (Lập kế hoạch và phân tích yêu cầu).
 
 
 _Note: Các bạn có thể uploada các file note text .txt, project sẽ tự động bỏ qua_
