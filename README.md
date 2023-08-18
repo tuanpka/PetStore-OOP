@@ -17,5 +17,6 @@ Mục tiêu:
   
     Hoàn thành bước 1: Analysis (Lập kế hoạch và phân tích yêu cầu).
 
+Các bạn vào file group 5 member list.txt để cập nhật thông tin trong ngày hôm nay. Sau đó nhớ save.
 
 _Note: Các bạn có thể upload các file note text .txt, project sẽ tự động bỏ qua_
