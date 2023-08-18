@@ -14,4 +14,4 @@ Mô tả được cấu trúc phần mềm cơ bản
 Hoàn thành bước 1: Analysis (Lập kế hoạch và phân tích yêu cầu)
 
 
-_*Note: Các bạn có thể uploada các file note text .txt, project sẽ tự động bỏ qua _
+*Note: Các bạn có thể uploada các file note text .txt, project sẽ tự động bỏ qua
