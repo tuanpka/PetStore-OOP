@@ -18,4 +18,4 @@ Mục tiêu:
     Hoàn thành bước 1: Analysis (Lập kế hoạch và phân tích yêu cầu).
 
 
-_Note: Các bạn có thể uploada các file note text .txt, project sẽ tự động bỏ qua_
+_Note: Các bạn có thể upload các file note text .txt, project sẽ tự động bỏ qua_
