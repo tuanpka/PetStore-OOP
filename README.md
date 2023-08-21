@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** Thanks for checking out our project. 
+*** This README file is created by Pham Minh Tuan, member of the project.
 *** Don't forget to give the project a star!
 -->
 
@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   
-<img src="https://i.imgur.com/iWceKFD.jpg" width="256" height="256">   
+<img src="https://i.imgur.com/iWceKFD.jpg" width="256" height="256">    
 
   </a>
 
@@ -39,7 +39,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#technology-stack">Technology Stack</a></li>
       </ul>
     </li>
     <li>
@@ -69,7 +69,7 @@ At the present time, there is a noticeable absence of optimized software solutio
 
 
 
-### Built With
+### Technology Stack
 
 *  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 * ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
