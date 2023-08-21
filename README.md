@@ -42,6 +42,7 @@
         <li><a href="#technology-stack">Technology Stack</a></li>
       </ul>
     </li>
+    <li><a href="#key-features">Key Features</a></li> 
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -75,6 +76,20 @@ At the present time, there is a noticeable absence of optimized software solutio
 * ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
+
+
+### Key Features
+* Pet Inventory Management: Effectively manage the diverse range of pets available in the store, keeping track of their information and status.
+
+* Business Management: Enable the store owner to efficiently oversee the business by managing appointments, sales, inventory, and customer interactions.
+
+* Sales Log Tracking: Keep a detailed record of all sales transactions, enabling easy access to historical sales data.
+
+* Product Inventory Management: Maintain an organized inventory of products specifically tailored for pets, ensuring optimal stock levels and availability.
+
+* Customer Relationship Management: Manage customer profiles, purchase history, and appointment records to foster personalized services and strengthen customer relationships.
+
+* Data Analytics and Reporting: Generate insightful reports and statistics on various aspects of the business, aiding in informed decision-making.
 
 
 <!-- GETTING STARTED -->
