@@ -78,7 +78,7 @@ At the present time, there is a noticeable absence of optimized software solutio
 
 
 <!-- Key Features -->
-### Key Features
+## Key Features
 * Pet Inventory Management: Effectively manage the diverse range of pets available in the store, keeping track of their information and status.
 
 * Business Management: Enable the store owner to efficiently oversee the business by managing appointments, sales, inventory, and customer interactions.
