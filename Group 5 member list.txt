@@ -13,7 +13,9 @@ Git profile:  	https://github.com/Khanh1837
 3. Proflie
 Full Name: 	Nguyễn Trung Đức
 ID: 			21012397
-Git profile:  	https://github.com/
+Git profile:  	https://github.com/ducnt2003
 
 4. Profile
-Full Name:
+Full Name:  Đoàn Quang Huy
+ID:       210
+Git profile:    https://github.com/huydoan002
