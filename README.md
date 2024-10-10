@@ -176,13 +176,11 @@ Distributed under the MIT License. See  [![License: MIT](https://img.shields.io/
 
 <!-- AUTHOR -->
 ## Author
-This project is developed by Group 5.  
+This project is developed by Pham Minh Tuan.  
 
 Contact:
 * Pham Minh Tuan – 21012400@st.phenikaa-uni.edu.vn
-* Nguyen Trung Duc - 21012397@st.phenikaa-uni.edu.vn
-* Nguyen Trong Khanh - 21012805@st.phenikaa-uni.edu.vn
-* Doan Quang Huy - 21013354@st.phenikaa-uni.edu.vn
+
 
 Project Link:
 https://github.com/tuanpka/PetStore-OOP
